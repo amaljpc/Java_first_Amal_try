@@ -38,6 +38,10 @@ public class Main {
         numbers[3]=9;
         System.out.println(numbers);
 
+<<<<<<< HEAD
 
+=======
+//test
+>>>>>>> 9b43044 (Initial commit)
     }
 }
